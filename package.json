@@ -1,0 +1,22 @@
+{
+  "name": "twitchplayshearthstonearenapicks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chatbot.js",
+  "scripts": {
+    "start": "node chatbot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "haikudos": "^1.0.7",
+    "hoek": "^5.0.3",
+    "nodemon": "^1.17.5",
+    "python-shell": "^0.5.0",
+    "tmi.js": "^1.2.1",
+    "twi": "^0.1.4",
+    "underscore": "^1.9.1"
+  }
+}
